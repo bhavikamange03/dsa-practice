@@ -508,25 +508,7 @@ Typical complexity:
 
 ---
 
-## 17. Blind 75 Connection
-
-String knowledge directly supports many Blind 75 problems:
-
-- Valid Anagram
-- Valid Palindrome
-- Longest Substring Without Repeating Characters
-- Longest Repeating Character Replacement
-- Minimum Window Substring
-- Group Anagrams
-- Encode and Decode Strings
-- Palindromic Substrings
-- Longest Palindromic Substring
-- Word Break
-- Word Search
-
----
-
-## 18. Key Takeaway
+## 17. Key Takeaway
 
 When you see a string problem, first identify the pattern:
 

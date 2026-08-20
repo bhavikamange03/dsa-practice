@@ -412,46 +412,7 @@ Typical complexity:
 
 ---
 
-## 15. Important Interview Questions
-
-When you see an array problem, ask:
-
-1. Is the array sorted?
-2. Can I use a Hash Map?
-3. Can I use Two Pointers?
-4. Is this a Sliding Window problem?
-5. Can Prefix Sum help?
-6. Can I sort first?
-7. Can I solve it in-place?
-8. Can Binary Search reduce the search space?
-9. Do I need O(1) extra space?
-10. What is the brute-force solution first?
-
----
-
-## 16. Blind 75 Connection
-
-Array knowledge directly supports many Blind 75 problems:
-
-- Two Sum
-- Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Product of Array Except Self
-- Maximum Subarray
-- Maximum Product Subarray
-- 3Sum
-- Container With Most Water
-- Find Minimum in Rotated Sorted Array
-- Search in Rotated Sorted Array
-- Combination Sum
-- Merge Intervals
-- Insert Interval
-- Set Matrix Zeroes
-- Spiral Matrix
-
----
-
-## 17. Key Takeaway
+## 15. Key Takeaway
 
 Do not memorize solutions.
 
@@ -488,4 +449,3 @@ The goal is pattern recognition, not memorization.
     Analyze Complexity
        ↓
     Optimize
-    
